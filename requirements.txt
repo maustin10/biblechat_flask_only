@@ -1,0 +1,15 @@
+Flask
+openai
+sentence-transformers
+langchain
+tiktoken
+pandas
+bs4
+matplotlib
+plotly
+pymilvus 
+datasets 
+tqdm
+apache_beam 
+mwparserfromhell
+docker
